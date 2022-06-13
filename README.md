@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Jihun! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2> Hi there, I'm Jihun!</h2>
 
 <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihun%Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Backend%20Developer%20who%20likes%20to%20plan%20and%20record!&descAlignY=51&descAlign=62" />
 
